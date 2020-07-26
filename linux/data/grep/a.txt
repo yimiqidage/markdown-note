@@ -1,0 +1,17 @@
+aa b
+a b
+AB
+111
+222
+333
+aaa
+bbb
+ccc
+aab
+123abc
+abc123
+1a2b3c
+abb
+bbc
+abc
+1.3
